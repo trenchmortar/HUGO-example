@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HUGO - example </title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on HUGO - example </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Dec 2019 14:39:52 -0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Bootstrap</title>
+      <link>http://example.org/posts/hello-world/</link>
+      <pubDate>Sat, 14 Dec 2019 14:39:52 -0600</pubDate>
+      
+      <guid>http://example.org/posts/hello-world/</guid>
+      <description>Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.</description>
+    </item>
+    
+  </channel>
+</rss>
